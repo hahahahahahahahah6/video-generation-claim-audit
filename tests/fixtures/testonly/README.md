@@ -1,0 +1,1 @@
+Supports video generation.
